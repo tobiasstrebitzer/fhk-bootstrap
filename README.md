@@ -2,7 +2,18 @@
 
 ## Installation
 
-## Support & Documentation
+    $ npm install -g grunt-cli
+    $ npm install
+
+## Usage
+
+Compile LESS and JavaScript once:
+    
+    $ grunt
+
+Compile LESS every time files get changed:
+
+    $ grunt watch
 
 ## Resources
 
