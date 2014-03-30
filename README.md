@@ -25,5 +25,9 @@ Additionally, you should run the following command in your Terminal, to automati
 
 ## Resources
 
-* Twitter Bootstrap: http://www.getbootstrap.com/
+* Twitter Bootstrap: http://getbootstrap.com/
 * Subtle Patterns: http://www.subtlepatterns.com/
+* Grunt.js: http://gruntjs.com/
+* jQuery: http://jquery.com/
+* LESS: http://lesscss.org/
+* Common HTML/CSS problems: http://wtfhtmlcss.com/
