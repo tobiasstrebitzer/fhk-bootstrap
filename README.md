@@ -17,7 +17,6 @@ In this project,
 
 ## Usage
 
-<<<<<<< HEAD
 The project consists of several .html files (in the root-directory). To view any of these, open the file in the Editor (doubleclick) and press "Preview" in the Toolbar to open the page in the sidebar. (Tip: Click the 'Expand'- Icon to open the page in a new window).
 
 Additionally, you should run the following command in your Terminal, to automatically compile LESS files to CSS when files get changed.
