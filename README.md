@@ -6,11 +6,14 @@
     $ npm install
 
 ## Usage
-After any changes to less- files, run the following command to compile to css
+
+Compile LESS and JavaScript once:
     
     $ grunt
 
-## Support & Documentation
+Compile LESS every time files get changed:
+
+    $ grunt run
 
 ## Resources
 
