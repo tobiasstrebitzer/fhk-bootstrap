@@ -13,7 +13,7 @@ Compile LESS and JavaScript once:
 
 Compile LESS every time files get changed:
 
-    $ grunt run
+    $ grunt watch
 
 ## Resources
 
