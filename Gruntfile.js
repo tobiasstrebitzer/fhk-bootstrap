@@ -21,12 +21,19 @@ module.exports = function(grunt) {
                     "stylesheets/app.css": "less/app.less"
                 }
             }
+        },
+        watch: {
+            less: {
+                files: ['less/**/*.less'],
+                tasks: 'less:app'
+            }
         }
     });
 
     // Load the plugin that provides the "uglify" task.
     grunt.loadNpmTasks('grunt-contrib-uglify');
     grunt.loadNpmTasks('grunt-contrib-less');
+    grunt.loadNpmTasks('grunt-contrib-watch');
 
     // Default task(s).
     grunt.registerTask('default', ['uglify', 'less:app']);
